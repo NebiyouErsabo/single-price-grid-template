@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: https://github.com/NebiyouErsabo/single-price-grid-template/
+- Live Site URL: https://nebiyouersabo.github.io/single-price-grid-template/
 
 ## My process
 
